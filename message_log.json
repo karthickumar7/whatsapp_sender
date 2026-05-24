@@ -1,0 +1,45 @@
+[
+  {
+    "timestamp": "2026-05-23 14:17:26",
+    "to": "Karthick",
+    "phone": "+919042155957",
+    "message": "Hiii hello",
+    "status": "❌ Failed"
+  },
+  {
+    "timestamp": "2026-05-23 14:18:49",
+    "to": "Karthi",
+    "phone": "+919025299028",
+    "message": "hii da\nepdi iruka",
+    "status": "❌ Failed"
+  },
+  {
+    "timestamp": "2026-05-23 14:25:03",
+    "to": "karthi",
+    "phone": "+919025299028",
+    "message": "\nhey\nhi \nda",
+    "status": "✅ Sent"
+  },
+  {
+    "timestamp": "2026-05-23 14:31:12",
+    "to": "a",
+    "phone": "+919025299028",
+    "message": "Hey! 👋 My name is *Karthick Kumar M*.\nI am a *Web Designer* 🎨 and I can build yo...",
+    "status": "✅ Sent"
+  },
+  {
+    "timestamp": "2026-05-23 16:21:28 IST",
+    "to": "kll",
+    "phone": "+918667439178",
+    "message": "🔥 Special Offer! Get a professional website designed by *Karthick Kumar M* at an...",
+    "status": "✅ Sent",
+    "scheduled_for": "2026-05-23 16:20 IST"
+  },
+  {
+    "timestamp": "2026-05-23 17:12:40 IST",
+    "to": "aa",
+    "phone": "+918667439178",
+    "message": "heyy \nhi\nhhh",
+    "status": "✅ Sent"
+  }
+]

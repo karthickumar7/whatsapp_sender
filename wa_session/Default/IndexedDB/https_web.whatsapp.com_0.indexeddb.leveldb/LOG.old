@@ -1,0 +1,43 @@
+2026/05/23-16:20:17.515 6b68 Reusing MANIFEST D:\karthick\Projects\whatsapp sender\wa_session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/05/23-16:20:17.516 6b68 Recovering log #245
+2026/05/23-16:20:17.552 6b68 Reusing old log D:\karthick\Projects\whatsapp sender\wa_session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000245.log 
+2026/05/23-16:20:24.013 61c8 Level-0 table #255: started
+2026/05/23-16:20:24.080 61c8 Level-0 table #255: 518111 bytes OK
+2026/05/23-16:20:24.083 61c8 Delete type=0 #245
+2026/05/23-16:20:24.088 61c8 Manual compaction at level-0 from '\x000\x00\x00\x00' @ 72057594037927935 : 1 .. '\x001\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/05/23-16:20:24.332 6b68 Compacting 1@1 + 6@2 files
+2026/05/23-16:20:24.785 6b68 Generated table #256@1: 49361 keys, 2214964 bytes
+2026/05/23-16:20:25.268 6b68 Generated table #257@1: 13636 keys, 2166067 bytes
+2026/05/23-16:20:25.690 6b68 Generated table #258@1: 3266 keys, 2157387 bytes
+2026/05/23-16:20:26.568 6b68 Generated table #259@1: 24433 keys, 2249906 bytes
+2026/05/23-16:20:27.828 6b68 Generated table #260@1: 56692 keys, 2192585 bytes
+2026/05/23-16:20:28.475 6b68 Generated table #261@1: 83464 keys, 1780140 bytes
+2026/05/23-16:20:28.476 6b68 Compacted 1@1 + 6@2 files => 12761049 bytes
+2026/05/23-16:20:28.480 6b68 compacted to: files[ 0 0 6 0 0 0 0 ]
+2026/05/23-16:20:28.481 6b68 Delete type=2 #247
+2026/05/23-16:20:28.483 6b68 Delete type=2 #248
+2026/05/23-16:20:28.484 6b68 Delete type=2 #249
+2026/05/23-16:20:28.486 6b68 Delete type=2 #250
+2026/05/23-16:20:28.487 6b68 Delete type=2 #251
+2026/05/23-16:20:28.490 6b68 Delete type=2 #252
+2026/05/23-16:20:28.491 6b68 Delete type=2 #255
+2026/05/23-16:21:01.282 5528 Level-0 table #263: started
+2026/05/23-16:21:01.827 5528 Level-0 table #263: 716405 bytes OK
+2026/05/23-16:21:01.861 5528 Delete type=0 #254
+2026/05/23-16:21:01.875 61c8 Manual compaction at level-0 from '\x001\x00\x00\x00' @ 72057594037927935 : 1 .. '\x002\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/05/23-16:21:02.069 6b68 Compacting 1@1 + 6@2 files
+2026/05/23-16:21:02.351 6b68 Generated table #264@1: 49444 keys, 2215809 bytes
+2026/05/23-16:21:02.586 6b68 Generated table #265@1: 14954 keys, 2168213 bytes
+2026/05/23-16:21:02.878 6b68 Generated table #266@1: 2310 keys, 2154754 bytes
+2026/05/23-16:21:03.459 6b68 Generated table #267@1: 25451 keys, 2254319 bytes
+2026/05/23-16:21:03.935 6b68 Generated table #268@1: 51320 keys, 2186515 bytes
+2026/05/23-16:21:04.404 6b68 Generated table #269@1: 92538 keys, 1971315 bytes
+2026/05/23-16:21:04.405 6b68 Compacted 1@1 + 6@2 files => 12950925 bytes
+2026/05/23-16:21:04.409 6b68 compacted to: files[ 0 0 6 0 0 0 0 ]
+2026/05/23-16:21:04.417 6b68 Delete type=2 #256
+2026/05/23-16:21:04.420 6b68 Delete type=2 #257
+2026/05/23-16:21:04.420 6b68 Delete type=2 #258
+2026/05/23-16:21:04.424 6b68 Delete type=2 #259
+2026/05/23-16:21:04.425 6b68 Delete type=2 #260
+2026/05/23-16:21:04.426 6b68 Delete type=2 #261
+2026/05/23-16:21:04.427 6b68 Delete type=2 #263
