@@ -1,0 +1,4 @@
+wa_session/
+node_modules/
+.env
+dist/
